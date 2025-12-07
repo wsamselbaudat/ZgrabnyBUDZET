@@ -1,0 +1,719 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202512 will be lost/reset.
+# Last config file used to build this data file was /home/klient.dhosting.pl/hugobuvh/umgdynia.pl/awstats/conf/awstats.umgdynia.pl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2144                
+POS_TIME 2830                
+POS_VISITOR 22402               
+POS_DAY 24853               
+POS_DOMAIN 3531                
+POS_LOGIN 3764                
+POS_ROBOT 3919                
+POS_WORMS 4238                
+POS_EMAILSENDER 4369                
+POS_EMAILRECEIVER 4512                
+POS_SESSION 24968               
+POS_FILESIZE 25843               
+POS_SIDER 25141               
+POS_FILETYPES 4647                
+POS_DOWNLOADS 4752                
+POS_OS 4835                
+POS_BROWSER 5070                
+POS_SCREENSIZE 5797                
+POS_UNKNOWNREFERER 5871                
+POS_UNKNOWNREFERERBROWSER 6435                
+POS_ORIGIN 6517                
+POS_SEREFERRALS 6657                
+POS_PAGEREFS 6819                
+POS_SEARCHWORDS 6967                
+POS_KEYWORDS 7119                
+POS_MISC 2494                
+POS_ERRORS 7178                
+POS_CLUSTER 3620                
+POS_SIDER_403 7313                
+POS_SIDER_404 7543                
+POS_SIDER_400 22000               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251207092137 2234 621520 18261266635619
+FirstTime 20251206182855
+LastTime 20251207092137
+LastUpdate 20251207092143 2234 0 2234 0 0
+TotalVisits 66                  
+TotalUnique 61                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 61                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 265 265 1103739 29 131 5572
+1 138 138 933138 9 74 3635
+2 128 128 578433 10 51 16707
+3 107 107 362010 14 35 11931
+4 134 134 659613 18 39 8299
+5 272 272 771681 52 130 12391
+6 532 532 1111240 151 222 106944
+7 241 241 1336122 14 83 3955
+8 4769 4769 3011613 22 127 4842
+9 1031 1031 358191 0 6 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 67 67 114488 138 165 119848
+19 32 32 669913 255 284 201828
+20 63 63 833275 12 54 80677
+21 10 10 50165 1 5 796
+22 1 1 0 11 12 10754
+23 108 108 339532 4 53 3184
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 7898 7898 12233153
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+^mozilla\/5\.0$ 9 7647 20251207075237 0
+bot[\s_+:,\.\;\/\\-] 6 74036 20251206220340 0
+no_user_agent 6 13220 20251206183622 0
+python 2 902 20251207064820 0
+MJ12bot/ 1 363 20251207063503 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 7888 12232283 0 0
+Unknown 10 870 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/.well-known/dhosting.pl.txt 2 0 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxubuntu 2 2
+android11 1 1
+ios_iphone 12 12
+android10 2 2
+linux 16 16
+Unknown 23 23
+unix 1 1
+macosx9 3 3
+win7 2 2
+macosx15 3 3
+androidmarshmallow 4 4
+win10 7829 7829
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+chrome113.0.0.0 1 1
+mozilla 15 15
+chrome137.0.0.0 1 1
+netscape5.0 9 9
+chrome125.0.0.0 3 3
+chrome117.0.5938.132 1 1
+chrome116.0.0.0 1 1
+chrome33.0.1750.152 2 2
+safari26.1 6 6
+chrome79.0.3945.79 1 1
+firefox142.0 1 1
+safari15.4 2 2
+chrome132.0.0.0 2 2
+edge18 4 4
+chrome142.0.0.0 2 2
+chrome130.0.0.0 4 4
+firefox124.0 1 1
+safari14.0.3 2 2
+chrome108.0.0.0 1 1
+chrome143.0.0.0 13 13
+safari 2 2
+firefox29.0 1 1
+chrome104.0.0.0 5 5
+chrome106.0.0.0 1 1
+opera124.0.0.0 3308 3308
+chrome102.0.5005.197 1 1
+firefox134.0 2 2
+firefox145.0 4497 4497
+chrome114.0.0.0 1 1
+chrome140.0.0.0 1 1
+firefox120.0 1 1
+firefox83.0 2 2
+chrome27.0.1453.116 1 1
+chrome95.0.4638.69 2 2
+chrome83.0.4103.61 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20251207071719
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20251206183513
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20251206201413
+Mozilla/5.0_(l9scan/2.0.335313e2635313e25393e2930313;__https://leakix.net) 20251206183655
+Mozilla/5.0_(compatible;_UGAResearchAgent/1.0;_Please_visit:_NISLabUGA.github.io) 20251206201000
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 216 216
+From1 0 0
+From2 1 1
+From3 0 0
+From4 7681 7681
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_de 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 126 1232
+403 11 8211
+404 610 485560
+400 5 126
+500 7 66
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 4
+/xmlrpc.php 3 https://www.yahoo.com/
+/.well-known/ 1 https://www.google.com/
+/.git/config 6 -
+/.well-known/acme-challenge/ 1 https://www.google.fr/
+END_SIDER_403
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 321
+/wp-includes/ID3/about.php 1 https://www.yahoo.com/
+/_all_dbs 4 -
+/wp-includes/SimplePie/autoload_classmap.php 2 https://www.google.com/
+/options-reading.php 2 https://duckduckgo.com/
+/wp-includes/Text/ 1 https://www.google.de/
+/aa.php 2 https://www.bing.com/
+/bless.php 2 https://www.bing.com/
+/simple.php 2 https://www.yahoo.com/
+/mah.php 2 https://duckduckgo.com/
+/api/graphql 4 -
+/wp-includes/Text/Diff/Engine/ 1 https://www.google.co.uk/
+/wp-admin/images/index.php 1 https://www.bing.com/
+/wp-includes/images/crystal/ 1 https://www.google.co.uk/
+/api.php 2 https://duckduckgo.com/
+/wp-includes/widgets/ 1 https://www.google.de/
+/wp-content/upgrade/index.php 2 https://www.yahoo.com/
+/wp-includes/SimplePie/Cache/ 1 https://www.google.fr/
+/wp-admin/network/ 1 https://www.yahoo.com/
+/wp-includes/bk/index.php 2 https://www.bing.com/
+/cms/wp-includes/wlwmanifest.xml 2 -
+/radio.php 2 https://www.google.fr/
+/wp-content/ai1wm-backups/ 1 https://www.google.fr/
+/wp-includes/sitemaps/wp-conflg.php 2 https://www.google.co.uk/
+/images/ 2 https://www.google.com/
+/wp-content/plugins/ 1 https://www.yahoo.com/
+/wp-includes/images/ 1 https://duckduckgo.com/
+/wp-content/plugins/ninja-forms/ 1 https://www.google.com/
+/wp-admin/classwithtostring.php 2 https://www.google.co.uk/
+/wp-includes/blocks/ 2 https://www.yahoo.com/
+/wp-includes/sitemaps/providers/ 1 https://www.google.co.uk/
+/wp-includes/Requests/Cookie/ 1 https://www.yahoo.com/
+/wp-includes/PHPMailer/ 1 https://duckduckgo.com/
+/.env 4 -
+/file5.php 1 https://www.google.fr/
+/wp-includes/Requests/ 1 https://www.bing.com/
+/wp-includes/customize/chosen.php 2 https://www.google.com/
+/wordpress/wp-admin/setup-config.php 26 -
+/modules/mod_simplefileuploadv1.3/elements/index.php 1 https://duckduckgo.com/
+/plugins/ 1 https://www.google.de/
+/admin/controller/extension/extension/ 1 https://www.yahoo.com/
+/wp-includes/rest-api/search/ 1 https://duckduckgo.com/
+/css/index.php 2 https://www.google.com/
+/wp-admin/css/ 2 https://www.google.co.uk/
+/wp-includes/ID3/license.txt 2 -
+/template/ 1 https://duckduckgo.com/
+/wp-themes.php 2 https://www.google.co.uk/
+/wp-includes/random_compat/index.php 1 https://www.google.de/
+/wp-includes/ID3/simi.php 2 https://www.google.fr/
+/wp-includes/Text/Diff/Renderer/ 1 https://www.bing.com/
+/ALFA_DATA/ 1 https://www.google.fr/
+/wp-includes/Requests/Exception/HTTP/ 1 https://duckduckgo.com/
+/wp-blog.php 2 https://www.google.co.uk/
+/moon.php 1 https://www.google.fr/
+/config.json 4 -
+/files/ 1 https://duckduckgo.com/
+/wp-includes/fonts/autoload_classmap.php 1 https://duckduckgo.com/
+/wp-content/themes/twentytwentythree/patterns/index.php 1 https://www.bing.com/
+/function/function.php 1 https://www.yahoo.com/
+/xmrlpc.php 2 https://www.bing.com/
+/server-status 4 -
+/cgi-bin/ 2 https://duckduckgo.com/
+/wp-includes/rest-api/index.php 1 https://www.google.de/
+/wp-content/admin.php 2 https://www.google.co.uk/
+/assets/images/ 2 https://www.google.co.uk/
+/wp-content/plugins/admin.php 2 https://www.google.fr/
+/Public/ 1 https://www.google.co.uk/
+/wp-admin/js/widgets/index.php 1 https://www.bing.com/
+/wp-includes/Text/Diff/Engine/Engine/ 1 https://www.google.de/
+/wp-includes/html-api/index.php 1 https://www.google.co.uk/
+/1.php 2 https://www.google.fr/
+/x.php 2 https://www.google.co.uk/
+/info.php 6 -
+/NewFile.php 1 https://www.google.com/
+/wp-includes/rest-api/ 2 https://www.yahoo.com/
+/wp-content/themes/twentytwentyfour/system_cache.php 1 https://www.google.de/
+/Site/ 1 https://www.google.com/
+/v3/api-docs 4 -
+/wp-admin/wp-admins.php 2 https://www.google.fr/
+/debug/default/view 4 -
+/@vite/env 4 -
+/wp-includes/Requests/index.php 1 https://www.google.co.uk/
+/swagger/index.html 4 -
+/wp-good.php 2 https://www.google.de/
+/ahax.php 2 https://duckduckgo.com/
+/wp.php 2 https://www.bing.com/
+/wp-includes/images/smilies/admin.php 1 https://duckduckgo.com/
+/wp-content/uploads/2025/ 2 https://www.google.de/
+/Assets/ 1 https://www.bing.com/
+/mini 1 https://duckduckgo.com/
+/autoload_classmap/function.php 2 https://www.google.de/
+/install.php 1 https://duckduckgo.com/
+/wp-includes/style-engine/autoload_classmap.php 1 https://www.google.fr/
+/wp-includes/js/ 1 https://duckduckgo.com/
+/wp-includes/random_compat/ 1 https://www.google.co.uk/
+/wp-admin/css/colors/ocean/about.php 1 https://www.google.fr/
+/HOME.PHP 1 -
+/wp-includes/ID3/about.php/wp-content/x/index.php 1 https://www.google.fr/
+/wp-includes/block-supports/ 1 https://www.bing.com/
+/wp-content/mu-plugins-old/ 1 https://www.yahoo.com/
+/wp-admin/includes/ 1 https://www.bing.com/
+/av.php 2 https://www.google.co.uk/
+/akcc.php 2 https://www.yahoo.com/
+/wp-content/ 1 https://www.google.co.uk/
+/wp-includes/images/smilies/about.php 2 https://www.google.com/
+/wp-includes/IXR/ 2 https://www.google.de/
+/cgi-bin/file.php 1 https://www.bing.com/
+/wp-includes/pomo/ 1 https://www.google.de/
+/wp-admin/user/ 1 https://duckduckgo.com/
+/test/wp-includes/wlwmanifest.xml 2 -
+/file.php 2 https://www.google.de/
+/about.php 2 https://www.bing.com/
+/wp-editor.php 2 https://www.google.fr/
+/admin.php 2 https://www.bing.com/
+/.DS_Store 4 -
+/wp-includes/Text/Diff/index.php 1 https://www.google.co.uk/
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/customize/class-wp-customize-media-icon-control.php 1 https://duckduckgo.com/
+/wp-content/1.php 1 https://www.google.fr/
+/wp-content/edit.php 1 https://www.google.de/
+/wp-user.php 2 https://www.google.de/
+/local/ 1 https://www.google.com/
+/uploads/ 2 https://www.google.com/
+/wp-includes/rest-api/search/index.php 2 https://www.google.de/
+/web/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/Requests/Transport/ 1 https://duckduckgo.com/
+/wp-includes/PHPMailer/index.php 1 https://www.google.de/
+/wp-includes/ID3/ 2 https://www.google.co.uk/
+/wp-includes/SimplePie/chosen.php 1 https://www.yahoo.com/
+/wp-content/themes/classic/inc/ 1 https://www.yahoo.com/
+/v2/_catalog 4 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/sites/default/files/ 1 https://www.google.fr/
+/mah/function.php 2 https://www.google.co.uk/
+/v2/api-docs 4 -
+/Admin/uploads/ 1 https://www.bing.com/
+/admin/uploads/images/ 1 https://www.google.co.uk/
+/wp-content/backup-db/ 1 https://www.yahoo.com/
+/wp-includes/Requests/Utility/ 1 https://www.google.fr/
+/cmd_sco 2 -
+/admin/images/slider/ 1 https://www.google.de/
+/wp-admin/images/ 1 https://www.google.com/
+/swagger/v1/swagger.json 4 -
+/login.action 4 -
+/about 4 -
+/wp-content/backups-dup-lite/ 1 https://www.google.de/
+/wp-includes/js/codemirror/ 1 https://www.bing.com/
+/wp-includes/style-engine/index.php 1 https://www.bing.com/
+/vendor/phpunit/phpunit/src/Util/PHP/as.php 1 https://www.google.co.uk/
+/cgi-bin/index.php 1 https://www.google.co.uk/
+/public/wp-content/index.php 1 https://www.yahoo.com/
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 4 -
+/swagger/swagger-ui.html 4 -
+/vendor/ 1 https://www.yahoo.com/
+/wp-conflg.php 1 https://www.google.co.uk/
+/upload/image/ 1 https://www.google.fr/
+/wp-includes/rest-api/endpoints/ 1 https://www.bing.com/
+/wp-includes/sitemaps/providers/index.php 1 https://www.yahoo.com/
+/wp-includes/block-bindings/radio.php 1 https://duckduckgo.com/
+/s/335313e2635313e25393e2930313/_/ 4 -
+/wp-includes/Text/Diff/ 1 https://www.google.fr/
+/abcd.php 2 https://www.google.fr/
+/images/stories/ 1 https://www.google.co.uk/
+/admin/fckeditor/editor/filemanager/ 1 https://www.bing.com/
+/yas.php 2 https://www.google.de/
+/wp-includes/theme-compat/ 1 https://www.google.fr/
+/php/ 1 https://duckduckgo.com/
+/wp-admin/js/index.php 1 https://www.google.fr/
+/wp-includes/images/wlw/ 1 https://duckduckgo.com/
+/robots.txt 9 -
+/assets/as.php 1 https://www.google.co.uk/
+/wp-includes/Requests/Exception/ 1 https://www.bing.com/
+/gel4y.php 1 https://www.google.fr/
+/shop/ 1 https://www.google.com/
+/chosen.php 2 https://www.bing.com/
+/wp-includes/fonts/admin.php 2 https://duckduckgo.com/
+/wp-includes/customize/ 1 https://www.google.co.uk/
+/wp-admin/js/widgets/ 2 https://www.google.com/
+/wp-content/themes/pridmag/install.php 1 https://www.yahoo.com/
+/wp-content/wflogs/ 1 https://www.google.fr/
+/themes.php 1 https://duckduckgo.com/
+/wp-content/upgrade/ 1 https://www.google.fr/
+/assets/ 2 https://www.google.de/
+/css/install.php 1 https://www.google.com/
+/wp-includes/wp-db-array.php 1 https://www.bing.com/
+/js/twint_ch.js 2 -
+/wp-includes/images/media/ 2 https://www.google.com/
+/wp-includes/certificates/ 2 https://www.yahoo.com/
+/wp-content/index.php 2 https://duckduckgo.com/
+/wp-includes/images/smilies/ 1 https://www.bing.com/
+/wp-content/languages/index.php 2 https://www.bing.com/
+/wp-content/mu-plugins/ 1 https://www.google.de/
+/swagger.json 4 -
+/alfa.php 1 https://www.google.de/
+/wp-includes/fonts/index.php 1 https://duckduckgo.com/
+/wp-includes/Text/xwx1.php 2 https://duckduckgo.com/
+/wp-includes/block-patterns/ 2 https://www.google.com/
+/cong.php 1 https://www.yahoo.com/
+/wp-includes/Requests/about.php 2 https://duckduckgo.com/
+/wp-content/uploads/ 2 https://www.yahoo.com/
+/2019/wp-includes/wlwmanifest.xml 2 -
+/graphql 4 -
+/wp-admin/js/wp-login.php 1 https://www.google.fr/
+/wp-includes/customize/sx.php 1 https://www.google.fr/
+/api-docs/swagger.json 4 -
+/wp-content/et-cache/ 2 https://www.bing.com/
+/inputs.php 2 https://www.bing.com/
+/wp-admin/network/index.php 1 https://www.google.com/
+/goods.php 2 https://www.google.co.uk/
+/wp-admin/meta/ 1 https://www.bing.com/
+/list.php 9 https://umgdynia.pl/panel.php
+/wp-includes/js/crop/ 1 https://www.yahoo.com/
+/wp-includes/widgets/autoload_classmap.php 1 https://duckduckgo.com/
+/api 4 -
+/.well-knownold/ 1 https://www.google.de/
+/wp-content/uploads/index.php 1 https://www.bing.com/
+/wp-admin/setup-config.php 26 -
+/wp-includes/Requests/Auth/ 1 https://www.google.co.uk/
+/wp-admin/ 2 https://www.google.fr/
+/wp-includes/Text/Diff/Renderer/index.php 2 https://www.bing.com/
+/wp-content/classwithtostring.php 2 https://www.google.com/
+/wp-includes/sodium_compat/ 1 https://www.google.co.uk/
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/.vscode/sftp.json 4 -
+/server 4 -
+/admin/uploads/ 1 https://www.google.com/
+/Sanskrit.php 1 https://duckduckgo.com/
+/bolt.php 1 https://www.google.fr/
+/wp-includes/SimplePie/ 1 https://www.google.fr/
+/wp-includes/html-api/ 1 https://www.google.de/
+/wp-admin/js/ 1 https://www.yahoo.com/
+/wp-includes/css/index.php 2 https://duckduckgo.com/
+/wp-includes/Requests/Response/ 1 https://duckduckgo.com/
+/api/swagger.json 4 -
+/images/admin.php 1 https://www.google.fr/
+/wp-admin/network/admin.php 2 https://www.google.co.uk/
+/buy.php 2 https://www.google.de/
+/manager.php 2 https://www.bing.com/
+/wp-admin/index.php 1 https://www.yahoo.com/
+/wp-content/cache/supercache/ 1 https://www.google.com/
+/wp-admin/includes/colour.php 2 https://www.google.de/
+/wp-content/uploads/2024/ 2 https://www.yahoo.com/
+/system/ 1 https://www.google.com/
+/wp-includes/assets/index.php 2 https://www.google.fr/
+/wp-content/updraft/ 1 https://www.bing.com/
+/home.php33 7 https://umgdynia.pl/panel.php
+/wp-includes/fonts/ 1 https://www.google.com/
+/wp-includes/blocks/calendar/index.php 2 https://www.google.fr/
+/upload/ 1 https://www.google.com/
+/wp-includes/SimplePie/index.php 1 https://www.yahoo.com/
+/include/ 1 https://www.google.com/
+/wp-includes/sodium_compat/src/ 1 https://www.google.fr/
+/wp-includes/css/ 1 https://duckduckgo.com/
+/blog/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/js/codemirror/index.php 1 https://www.google.co.uk/
+/wp-includes/Text/index.php 1 https://www.google.de/
+/home.php%3C 3 https://umgdynia.pl/panel.php
+/wp-includes/sitemaps/ 2 https://www.yahoo.com/
+/wp-admin/css/colors/ectoplasm/ 1 https://www.bing.com/
+/wp-includes/customize/index.php 2 https://www.google.co.uk/
+/telescope/requests 4 -
+/graphql/api 4 -
+/adminfuns.php 1 https://www.google.co.uk/
+/wp-includes/js/jquery/jquery.php 2 https://duckduckgo.com/
+/wp-content/themes/admin.php 2 https://www.google.com/
+/wp-content/w3tc/ 1 https://www.bing.com/
+/wp-includes/style-engine/wp-conflg.php 2 https://www.bing.com/
+/feed/ 2 -
+/wp-includes/php-compat/ 1 https://www.bing.com/
+/cc.php 1 https://www.google.fr/
+/actuator/env 4 -
+/wp-includes/sitemaps/autoload_classmap.php 1 https://www.yahoo.com/
+/admin/editor/ 1 https://www.bing.com/
+/wp-includes/rest-api/fields/ 2 https://www.google.fr/
+/js/lkk_ch.js 2 -
+/components/ 1 https://duckduckgo.com/
+/ioxi-o.php 2 https://www.bing.com/
+/edit.php 1 https://www.yahoo.com/
+/wp-admin/maint/ 1 https://www.bing.com/
+/users.php 2 https://umgdynia.pl/panel.php
+/mini.php 2 https://www.google.de/
+/wp-includes/index.php 2 https://www.yahoo.com/
+/2020/wp-includes/wlwmanifest.xml 2 -
+/wp-admin/css/colors/ 1 https://duckduckgo.com/
+/wp-includes/SimplePie/Content/Type/ 1 https://www.google.co.uk/
+/site/wp-includes/wlwmanifest.xml 2 -
+/2021/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/ 1 https://www.google.co.uk/
+/wp-content/uploads/2023/ 2 https://www.google.de/
+/modules/mod_simplefileuploadv1.3/elements/ 2 https://www.google.de/
+/item.php 1 https://www.google.fr/
+/classwithtostring.php 2 https://www.yahoo.com/
+/elp.php 2 https://www.google.de/
+/wp-includes/css/autoload_classmap.php 1 https://www.google.fr/
+/wp-includes/assets/about.php 2 https://www.google.co.uk/
+/wp-includes/js/index.php 2 https://www.google.co.uk/
+/api/gql 4 -
+/swagger-ui.html 4 -
+/wp-includes/style-engine/ 1 https://www.google.de/
+/wp-content/cache/ 1 https://www.google.co.uk/
+/index/function.php 2 https://www.google.fr/
+/export.php 3 https://umgdynia.pl/home.php
+/vendor/phpunit/phpunit/src/Util/PHP/ 1 https://www.google.co.uk/
+/wp-content/themes/tflow/as.php 1 https://duckduckgo.com/
+/wp-admin/includes/index.php 2 https://www.yahoo.com/
+/modules/ 1 https://www.google.com/
+/wp-includes/SimplePie/Content/ 1 https://www.google.de/
+/wp/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/assets/autoload_classmap.php 2 https://duckduckgo.com/
+/wp-includes/Requests/Proxy/ 1 https://www.google.de/
+/network.php 1 https://www.yahoo.com/
+/wp-includes/class-wp-locale-switcher-less.php 1 https://www.bing.com/
+/public/files/index.php 1 https://www.google.fr/
+/wp-content/plugins/pwnd/as.php 2 https://www.bing.com/
+/wp-includes/assets/ 1 https://www.bing.com/
+/wp-content/themes/ 1 https://www.google.com/
+/css/support_parent.css 2 -
+/wp-includes/rest-api/endpoints/index.php 1 https://www.bing.com/
+/webjars/swagger-ui/index.html 4 -
+/admin/ 1 https://www.google.com/
+/home 1 -
+/new.php 3 https://www.google.co.uk/
+END_SIDER_404
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 2
+/import.php 2 https://umgdynia.pl/home.php
+/update_status.php 3 https://umgdynia.pl/edit.php
+END_SIDER_400
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+91.211.226.83 7805 7805 12031568 20251207092137 20251207000217 /get_status.php
+52.16.245.145 6 6 6372 20251206213511
+54.36.174.99 5 5 3935 20251207064600
+157.143.20.83 4 4 1618 20251207033412
+104.28.139.238 3 3 38910 20251206211733
+37.109.148.202 3 3 2392 20251207081012
+34.220.11.209 3 3 2220 20251206203301
+205.169.39.69 2 2 2171 20251206183644
+104.28.138.66 2 2 35871 20251206205159
+167.172.158.128 2 2 4475 20251206183655
+104.197.69.115 1 1 1170 20251206183636
+54.188.103.171 2 2 2334 20251206200135
+64.15.129.101 1 1 4883 20251206205136
+13.50.233.180 1 1 87 20251206183512
+162.142.125.195 1 1 1167 20251206201413
+185.247.137.187 1 1 451 20251207071719
+16.171.69.115 1 1 87 20251206183512
+64.15.129.112 1 1 4883 20251206205138
+157.230.19.140 2 2 4475 20251206183655
+34.221.150.85 2 2 2334 20251206200136
+104.28.131.103 1 1 1053 20251206185458
+34.221.21.250 1 1 451 20251207031657
+128.192.12.114 1 1 1167 20251206201000
+64.15.129.124 1 1 4883 20251206205134
+91.231.89.126 1 1 0 20251206185842
+205.169.39.54 1 1 1167 20251206200944
+192.175.111.239 1 1 4883 20251206205137
+23.178.112.108 1 1 87 20251206183511
+34.76.89.250 2 2 726 20251207042247
+23.178.112.105 1 1 87 20251206183512
+31.0.86.223 1 1 363 20251207054730
+84.32.41.136 1 1 363 20251207063350
+152.42.221.185 2 2 1574 20251207061327
+4.197.60.90 1 1 787 20251207062558
+64.227.32.66 2 2 4475 20251206183655
+91.231.89.99 1 1 4879 20251206185911
+13.212.105.138 1 1 87 20251206183512
+192.175.111.242 1 1 4883 20251206205138
+35.92.75.13 1 1 87 20251206183513
+18.188.7.221 2 2 174 20251206183512
+44.245.170.11 2 2 2106 20251206203302
+64.15.129.106 2 2 9766 20251206205137
+136.114.16.199 1 1 1167 20251206195704
+149.57.180.92 1 1 0 20251206224129
+16.147.29.121 1 1 87 20251206183512
+94.247.172.129 1 1 1167 20251206203856
+34.95.185.149 1 1 4883 20251206211724
+51.81.245.138 1 1 1170 20251206183634
+192.175.111.231 1 1 4883 20251206205134
+205.169.39.58 1 1 1170 20251206183634
+139.59.143.102 2 2 4475 20251206183655
+104.232.199.2 1 1 1001 20251206183720
+64.15.129.119 1 1 4883 20251206205138
+34.58.65.191 1 1 1167 20251206195923
+103.196.9.9 1 1 1001 20251206183719
+128.192.12.103 1 1 1167 20251206201000
+18.142.237.209 1 1 87 20251206183513
+192.175.111.251 1 1 4883 20251206205136
+206.168.34.116 1 1 1167 20251206200005
+46.101.35.233 2 2 1672 20251207092009 20251207092008 /
+84.20.4.5 2 2 1672 20251207082423 20251207082423 /
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20251206 281 281 2007373 52
+20251207 7617 7617 10225780 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 2
+1h+ 1
+0s-30s 55
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/get_status.php 5403 876043 0 0
+/home.php 1074 5788715 1 1
+/get_grupa_wydatkow.php 313 9905 0 0
+/ 273 221933 56 51
+/panel.php 181 142911 0 0
+/edit.php 152 2098273 0 0
+/add.php 139 2845263 0 2
+/get_rozdzialy.php 136 45227 0 0
+/import.php 48 5168 0 0
+/users.php 37 119596 0 0
+/.well-known/acme-challenge/qoqlP7qgVP6Cm32WrVVJUasVh0J_YUYblSKJmBuWIT4 5 435 4 5
+/insert.php 21 9963 0 0
+/get_budget_number.php 33 1418 0 0
+/update_status.php 24 3712 0 0
+/export.php 17 14995 0 0
+/manage_users.php 2 5714 0 0
+/.well-known/acme-challenge/JMMjNJZqkNAkdB2xkBEOYZAprzu7k5JaF_LmyOe0CEY 5 435 5 4
+/home_dzial.php 34 43124 0 0
+/debug_columns.php 1 323 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 877
+0-44 539
+2K-5K 311
+100-500 5007
+1K-2K 146
+44-100 828
+500-1K 1661
+END_FILESIZE
